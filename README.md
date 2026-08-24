@@ -33,7 +33,8 @@ Four services on NATS JetStream. At-least-once delivery, ACK-after-persist, SQLi
 
 ### 🌱 Right now
 
-Adding CI/CD, a React frontend, and AWS deploy to Candle Agent. Grinding algorithms in Java on the side. ☕
+**Open to new-grad roles** — backend, infrastructure, SRE, or network engineering. U.S. permanent resident, no sponsorship needed. 📬
+
 
 ---
 
