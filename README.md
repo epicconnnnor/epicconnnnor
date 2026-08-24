@@ -1,59 +1,53 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Connor</h1>
 
-<!--
-**epicconnnnor/epicconnnnor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Backend & infrastructure engineer · UMass Amherst CS '26 · Boston, MA
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Connor Chen
-
-Backend and infrastructure engineer. UMass Amherst CS, May 2026. Based in the Boston area.
-
-I like systems where the interesting problems are about failure — what happens when a connection drops mid-stream, when a message gets delivered twice, when a consumer falls behind. Most of what I build ends up being an excuse to work on delivery guarantees, backpressure, and observability.
-
-Currently looking for backend, infrastructure, SRE, or network engineering roles.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+</p>
 
 ---
 
-## What I'm building
+### 🧩 What I like
 
-**[Candle Agent](https://github.com/epicconnnnor/Candle-Agent)** — Event-driven microservices pipeline for market analysis. Streams live bars over a persistent websocket, computes bar-geometry features, runs a two-stage LLM analysis, and pushes results to a live chart over SSE.
+Systems that break interestingly. Dropped connections, duplicate messages, consumers falling behind — the failure modes are the fun part.
 
-Four independently deployable services on NATS JetStream with at-least-once delivery, durable pull consumers, and explicit ACK-after-persist. SQLite in WAL mode for concurrent read/write, Prometheus metrics per service, the whole thing in Docker Compose. Runs end to end with zero API keys via a mock LLM provider, so you can clone it and see it work in one command.
-
-Rebuilt from a monolithic Python app — the distributed rewrite was the point.
-
-`Python` · `NATS JetStream` · `SQLite (WAL)` · `Prometheus` · `SSE` · `Docker`
+Distributed systems, networking, and SRE-flavored infrastructure. 🌐
 
 ---
 
-## Interests
+### 🔭 What I'm building
 
-Distributed systems, networking protocols, and SRE-adjacent infrastructure. Studied networking under Jim Kurose at UMass, which is a large part of why this is the direction I went.
+**[🕯️ Candle Agent](https://github.com/epicconnnnor/Candle-Agent)** — event-driven pipeline that streams live market bars, runs a two-stage LLM analysis, and pushes results to a live chart.
 
-Things I care about in practice: idempotency, graceful degradation, exponential backoff with jitter, metrics you can actually alert on, and READMEs that let someone run the thing without asking you a question.
-
----
-
-## Currently
-
-- Adding CI/CD, a React/TypeScript frontend, and AWS deployment to Candle Agent
-- Working through algorithm practice in Java
-- Reading more about consensus and replication than is strictly necessary
+Four services on NATS JetStream. At-least-once delivery, ACK-after-persist, SQLite in WAL mode, Prometheus metrics on every service. Clone it and `docker compose up` — no API keys needed, there's a mock provider. ⚡
 
 ---
 
-## Reach me
+### 🌱 Right now
 
-[LinkedIn](https://linkedin.com/in/connorchen1229) · [Email](mailto:epicconnor1229@gmail.com)
+Adding CI/CD, a React frontend, and AWS deploy to Candle Agent. Grinding algorithms in Java on the side. ☕
 
-English and Mandarin.
+---
+
+### 💬 Come say hi
+
+Genuinely — open an issue, drop a PR, or just message me. I'm happy to talk about anything here, trade notes on a project, or help if something I built is useful to you. New contributors and total beginners equally welcome. 🤝
+
+<p align="center">
+  <a href="https://linkedin.com/in/connorchen1229">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:epicconnor1229@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><sub>English · 中文 🇨🇳</sub></p>
