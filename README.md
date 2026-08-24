@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Connor</h1>
 
 <p align="center">
-  Backend & infrastructure engineer · UMass Amherst CS '26 · Boston, MA
+  Trying to be Backend & infrastructure engineer · UMass Amherst CS '26 · Boston, MA
 </p>
 
 <p align="center">
