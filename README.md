@@ -33,7 +33,7 @@ Four services on NATS JetStream. At-least-once delivery, ACK-after-persist, SQLi
 
 ### 🌱 Right now
 
-**Open to new-grad roles** — backend, infrastructure, SRE, or network engineering. U.S. permanent resident, no sponsorship needed. 📬
+**Open to new-grad roles** — Full Stack, infrastructure, SRE, or network engineering. U.S. permanent resident, no sponsorship needed. 📬
 
 
 ---
