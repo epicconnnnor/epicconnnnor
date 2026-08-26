@@ -37,9 +37,17 @@
 <h3 align="left">Projects</h3>
 
 - **[Candle Agent](https://github.com/epicconnnnor/Candle-Agent)** — Distributed market-data pipeline. Python services over NATS JetStream, SQLite WAL storage, SSE fan-out, Prometheus metrics, Dockerized with GitHub Actions CI. React + TypeScript trading-terminal UI with candlestick charts.
-- **PA Agent** — LLM-powered price action analysis. Multi-source candle data → structured features → two-stage LLM (market diagnosis, then trade decision).
+- 🎓 **[RateMyCampusEvents](https://github.com/epicconnnnor/ratemycampusevents)** — Full-stack campus event rating platform. FastAPI + PostgreSQL + HTMX, bcrypt auth with JWT sessions, four-table schema, deployed with Docker Compose.
+- 🎴 **PickMyRandoms** — Slay the Spire 2 Steam Workshop mod, ~550 subscribers. C# + Harmony runtime patching, with multiplayer support built on deterministic lockstep.
+- 🖱️ **BetterPlayerCursors** — Slay the Spire 2 Steam Workshop mod, ~250 subscribers. Multiplayer cursor visibility via Harmony patching.
 
 <h3 align="left">GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=epicconnnnor&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicconnnnor&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=epicconnnnor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
