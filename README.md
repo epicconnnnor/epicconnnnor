@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **Python, NATS, Docker, networking protocols, and React/TypeScript frontends**
 
-- ⚡ Fun fact: **I'm bilingual in English and Mandarin 🇨🇳**
-
 - 📫 How to reach me: **epicconnor1229@gmail.com**
 
 <h3 align="left">Connect with me</h3>
@@ -41,8 +39,3 @@
 - 🎴 **PickMyRandoms** — Slay the Spire 2 Steam Workshop mod, ~550 subscribers. C# + Harmony runtime patching, with multiplayer support built on deterministic lockstep.
 - 🖱️ **BetterPlayerCursors** — Slay the Spire 2 Steam Workshop mod, ~250 subscribers. Multiplayer cursor visibility via Harmony patching.
 
-<h3 align="left">GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=epicconnnnor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
