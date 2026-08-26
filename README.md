@@ -42,12 +42,6 @@
 - 🖱️ **BetterPlayerCursors** — Slay the Spire 2 Steam Workshop mod, ~250 subscribers. Multiplayer cursor visibility via Harmony patching.
 
 <h3 align="left">GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=epicconnnnor&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epicconnnnor&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=epicconnnnor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
