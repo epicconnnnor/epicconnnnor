@@ -19,9 +19,6 @@
 <a href="https://linkedin.com/in/connorchen1229" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
-<a href="https://github.com/epicconnnnor" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" height="40" width="40" />
-</a>
 <a href="mailto:epicconnor1229@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="email" height="40" width="40" />
 </a>
